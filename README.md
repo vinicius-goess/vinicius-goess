@@ -28,7 +28,7 @@ Olá! Eu sou Vinicius Góes, desenvolvedor apaixonado por tecnologia e aprendiza
 
 ### 📌 Alguns projetos
 
-- [Meu portfólio](https://github.com/vinicius-goess/portfolio)
+- [Meu portfólio](https://github.com/vinicius-goess/minhas-habilidades)
 - [Repositório com README](https://github.com/vinicius-goess/repositorio-com-readme)
 - [Aula Tabela](https://github.com/vinicius-goess/aula-tabela)
 
